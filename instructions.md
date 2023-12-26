@@ -4,7 +4,7 @@
 
 👈 **选择侧栏中的 _Run the App_ 进行全流程展示**
 
-👈 **或者选择侧栏中的 _Data clean/User analysis/Modeling_ 查看单一流程**
+👈 **或者选择侧栏中的 User analysis/Modeling_ 查看单一流程**
 
 ### Questions? Comments?
 
